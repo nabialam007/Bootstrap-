@@ -1,0 +1,17 @@
+body{
+	background-color: skyblue;
+}
+.cl{
+	background-color: blue;
+}
+.brd{
+	border: none;
+	border-bottom: 1px solid lightgray;
+	border-radius: 0px;
+}
+.brds{
+	border: none;
+	border-bottom: 1px solid gray;
+	border-radius: 0px;
+	background-color: blue;
+}

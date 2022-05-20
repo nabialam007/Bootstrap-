@@ -1,0 +1,12 @@
+.bgcol{
+    background-color:#eee;
+}
+.brd{
+	border: 2px solid lightblue;
+	background-color: white;
+	color: lightblue;
+	font-weight: bold;
+}
+:focus{
+	outline: none;
+}
